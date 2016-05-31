@@ -236,8 +236,6 @@ The report will be available as part of configured Jenkins test build
 
 
 
-
-
 Getting Started
 ===========================
 
@@ -333,5 +331,3 @@ Other ways to run the tests or Test Suite
 *command line using Maven:-  mvn clean install -P dev  
 *IDE Plugins: - Eclipse or Intellij via TestNg plugin or Maven plugin or Cucumber-Java plugin  
 *IDE TestNg Suite xml: - file located at "src/test/resources" TestNGRunTestSuite.xml (Right click and run as TestNg)
-  
-
